@@ -1,1 +1,1 @@
-# Financial-Modeling-Projects
+# Financial-Modeling
